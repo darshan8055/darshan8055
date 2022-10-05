@@ -1,7 +1,6 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+
 <h1 align="center">Hi <img width="30" src="https://i.ibb.co/9hZws4x/output-onlinegiftools.gif">, I'm Darshan Lunagariya</h1>
-<h3 align="center">A passionate Designer, Developer & Data Analyst from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<h3 align="center">A passionate Designer & Data Analyst from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshan8055&label=Profile%20views&color=0e75b6&style=flat" alt="darshan8055" /> </p>
 
@@ -11,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Data Analytics & Designing Project**
 
-- 💬 Ask me about **Designing & Development**
+- 💬 Ask me about **Designing**
 
 - 📫 How to reach me **darshanlunagariya44@gmail.com**
 
@@ -20,7 +19,7 @@
 <a href="https://twitter.com/8055darshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="8055darshan" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/darshan-lunagariya-9202621a7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="darshan-lunagariya-9202621a7" height="30" width="40" /></a>
 <a href="https://fb.com/darshanlunagariya2498" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darshanlunagariya2498" height="30" width="40" /></a>
-<a href="https://instagram.com/darshan8055" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan8055" height="30" width="40" /></a>
+<a href="https://www.instagram.com/darshandesigns.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="darshan8055" height="30" width="40" /></a>
 <a href="https://dribbble.com/darshan44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="darshan44" height="30" width="40" /></a>
 <a href="https://www.behance.net/darshanlunagariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="darshanlunagariya" height="30" width="40" /></a>
 </p>
